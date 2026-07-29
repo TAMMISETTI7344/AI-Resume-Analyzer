@@ -9,3 +9,4 @@ bcrypt
 python-jose
 passlib[bcrypt]
 openai
+PyMuPDF
