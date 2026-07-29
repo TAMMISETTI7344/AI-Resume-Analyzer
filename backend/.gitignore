@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Uploads
+uploads/
+
+# Virtual Environment
+venv/
+.env/
