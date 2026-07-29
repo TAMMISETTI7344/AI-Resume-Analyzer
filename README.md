@@ -123,6 +123,27 @@ Add screenshots of
 - AI Career Roadmap
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home](home.png)
+
+### 🔐 Login Page
+
+![Login](login.png)
+
+### 📄 Upload Resume
+
+![Upload](upload.png)
+
+### 📊 Dashboard
+
+![Dashboard](dashboard.png)
+
+### 📑 PDF Report
+
+![Report](report.png)
 
 ## 👨‍💻 Author
 
