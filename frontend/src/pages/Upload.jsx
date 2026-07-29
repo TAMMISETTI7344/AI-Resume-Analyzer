@@ -21,13 +21,14 @@ function Upload() {
       setLoading(true);
 
       const res = await axios.post(
-"https://ai-resume-analyzer-backend-vob4.onrender.com/upload"        formData,
-        {
-          headers: {
-            "Content-Type": "multipart/form-data",
-          },
-        }
-      );
+  "https://ai-resume-analyzer-backend-vob4.onrender.com/upload",
+  formData,
+  {
+    headers: {
+      "Content-Type": "multipart/form-data",
+    },
+  }
+);
 console.log(res.data);
 console.log(res.data.analysis);
 console.log("API Response:");
